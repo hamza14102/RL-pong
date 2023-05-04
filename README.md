@@ -1,18 +1,3 @@
----
-jupyter:
-    jupytext:
-        formats: ipynb,md
-        text_representation:
-            extension: .md
-            format_name: markdown
-            format_version: "1.3"
-            jupytext_version: 1.14.5
-    kernelspec:
-        display_name: Python 3 (ipykernel)
-        language: python
-        name: python3
----
-
 # Reinforcement Learning
 
 -   `submitted.py`: Your homework. Edit, and then submit to <a href="https://www.gradescope.com/courses/486387">Gradescope</a>.
